@@ -1,11 +1,11 @@
 body {
 
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
 
-    max-width: 900px;
+}
 
-    margin: 40px auto;
+.card {
 
-    padding: 20px;
+    border-radius: 12px;
 
 }
